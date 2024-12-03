@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazLab", "YazLab\YazLab.csproj", "{DBABA537-E92B-447D-AC78-E48F03B017AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBABA537-E92B-447D-AC78-E48F03B017AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBABA537-E92B-447D-AC78-E48F03B017AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBABA537-E92B-447D-AC78-E48F03B017AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBABA537-E92B-447D-AC78-E48F03B017AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B5A396-C8A1-4484-803F-970B41C90402}
+	EndGlobalSection
+EndGlobal

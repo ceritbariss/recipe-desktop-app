@@ -1,0 +1,13 @@
+C:\Users\cerit\Masaüstü\YazLab\YazLab\bin\Debug\YazLab.exe.config
+C:\Users\cerit\Masaüstü\YazLab\YazLab\bin\Debug\YazLab.exe
+C:\Users\cerit\Masaüstü\YazLab\YazLab\bin\Debug\YazLab.pdb
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.csproj.AssemblyReference.cache
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.Form1.resources
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.Properties.Resources.resources
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.csproj.GenerateResource.cache
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.csproj.CoreCompileInputs.cache
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.exe
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.pdb
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.TarifEkle.resources
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.MalzemeEkle.resources
+C:\Users\cerit\Masaüstü\YazLab\YazLab\obj\Debug\YazLab.TarifBul.resources

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|c:\\users\\cerit\\masa\u00FCst\u00FC\\yazlab11\\recipe-desktop-app\\yazlab\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|solutionrelative:yazlab\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\yazlab\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|solutionrelative:yazlab\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\yazlab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|solutionrelative:yazlab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\yazlab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|solutionrelative:yazlab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\yazlab\\tarifler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|solutionrelative:yazlab\\tarifler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\yazlab\\malzemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBABA537-E92B-447D-AC78-E48F03B017AD}|YazLab\\YazLab.csproj|solutionrelative:yazlab\\malzemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Malzemeler.cs",
+              "DocumentMoniker": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Malzemeler.cs",
+              "RelativeDocumentMoniker": "YazLab\\Malzemeler.cs",
+              "ToolTip": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Malzemeler.cs",
+              "RelativeToolTip": "YazLab\\Malzemeler.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:32:06.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarifler.cs",
+              "DocumentMoniker": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Tarifler.cs",
+              "RelativeDocumentMoniker": "YazLab\\Tarifler.cs",
+              "ToolTip": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Tarifler.cs",
+              "RelativeToolTip": "YazLab\\Tarifler.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:30:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Form1.cs",
+              "RelativeDocumentMoniker": "YazLab\\Form1.cs",
+              "ToolTip": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Form1.cs",
+              "RelativeToolTip": "YazLab\\Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAvwHYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:30:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\Form1.cs",
+              "RelativeDocumentMoniker": "YazLab\\Form1.cs",
+              "ToolTip": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YazLab\\YazLab\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\YazLab\\YazLab\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:30:35.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MalzemeEkle.cs",
+              "DocumentMoniker": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\MalzemeEkle.cs",
+              "RelativeDocumentMoniker": "YazLab\\MalzemeEkle.cs",
+              "ToolTip": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\MalzemeEkle.cs",
+              "RelativeToolTip": "YazLab\\MalzemeEkle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:08:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MalzemeEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YAZLAB11\\recipe-desktop-app\\YazLab\\MalzemeEkle.cs",
+              "RelativeDocumentMoniker": "YazLab\\MalzemeEkle.cs",
+              "ToolTip": "C:\\Users\\cerit\\Masa\u00FCst\u00FC\\YazLab\\YazLab\\MalzemeEkle.cs [Design]",
+              "RelativeToolTip": "..\\..\\YazLab\\YazLab\\MalzemeEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:08:04.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
